@@ -1,0 +1,2 @@
+D:\Github\cs50\C++\cough3\Debug\cough3.exe
+D:\Github\cs50\C++\cough3\Debug\cough3.pdb
