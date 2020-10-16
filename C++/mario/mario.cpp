@@ -6,7 +6,7 @@ int main()
 	int n;
 	do {
 		cin >> n;
-	} while (n > 0);
+	} while (n < 0);
 	for (int i = 0; i < n; i++) {
 		cout << "?";
 	}
