@@ -1,0 +1,2 @@
+D:\Github\cs50\Arrays\scores\Debug\scores.exe
+D:\Github\cs50\Arrays\scores\Debug\scores.pdb
