@@ -5,7 +5,9 @@ void cough(int n);
 
 int main()
 {
-    cough(3);
+    int a;
+    cin >> a;
+    cough(a);
 }
 void cough(int n) {
     for (int i = 0; i < n; i++) {
