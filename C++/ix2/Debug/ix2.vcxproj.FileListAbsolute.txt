@@ -1,0 +1,2 @@
+D:\Github\cs50\C++\ix2\Debug\ix2.exe
+D:\Github\cs50\C++\ix2\Debug\ix2.pdb
