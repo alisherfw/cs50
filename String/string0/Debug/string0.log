@@ -1,0 +1,3 @@
+﻿  string0.cpp
+D:\Github\cs50\String\string0\string0.cpp(7,20): warning C4018: '<=': signed/unsigned mismatch
+  string0.vcxproj -> D:\Github\cs50\String\string0\Debug\string0.exe

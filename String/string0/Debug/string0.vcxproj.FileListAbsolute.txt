@@ -1,0 +1,2 @@
+D:\Github\cs50\String\string0\Debug\string0.exe
+D:\Github\cs50\String\string0\Debug\string0.pdb
