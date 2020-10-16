@@ -1,0 +1,2 @@
+D:\Github\cs50\C++\mario1\Debug\mario1.exe
+D:\Github\cs50\C++\mario1\Debug\mario1.pdb
