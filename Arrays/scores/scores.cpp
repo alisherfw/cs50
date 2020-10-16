@@ -1,7 +1,9 @@
 #include <iostream>
+#include <iomanip>
 using namespace std;
 
 const int N = 10;
+
 float average(int length, int array[]);
 
 int main() {
@@ -11,7 +13,7 @@ int main() {
 		cout << "Score " << i + 1 << ": ";
 		cin >> a[i];
 	}
-	cout << average(n, a);
+	cout << setprecision(1) << fixed << average(n, a) << endl;
 }
 
 float average(int length, int array[]) {
@@ -19,5 +21,5 @@ float average(int length, int array[]) {
 	for (int i = 0; i < length; i++) {
 		sum += array[i];
 	}
-	return sum / length;
+	return (float) sum / (float) length;
 }
