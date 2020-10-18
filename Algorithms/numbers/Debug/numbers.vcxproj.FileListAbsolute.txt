@@ -1,0 +1,2 @@
+D:\Github\cs50\Algorithms\numbers\Debug\numbers.exe
+D:\Github\cs50\Algorithms\numbers\Debug\numbers.pdb
