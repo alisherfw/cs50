@@ -1,0 +1,2 @@
+D:\Github\cs50\Algorithms\iteration0\Debug\iteration0.exe
+D:\Github\cs50\Algorithms\iteration0\Debug\iteration0.pdb
