@@ -7,18 +7,13 @@ int main() {
 
 	 string name;
 	 cin >> name;
-	 bool found = false;
 
 	 for (int i = 0; i < 4; i++) {
 		if (names[i] == name) {
-			found = true;
-			break;
+			cout << "Found" << endl;
+			return 0;
 		}
-	}
-	 if (found == true) {
-		 cout << "Found" << endl;
-	 }
-	 else {
-		 cout << "Not Found" << endl;
-	 }
+	} 
+	 cout << "Not Found" << endl;
+	 return 1;
 }
