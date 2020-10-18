@@ -1,0 +1,2 @@
+D:\Github\cs50\Algorithms\names\Debug\names.exe
+D:\Github\cs50\Algorithms\names\Debug\names.pdb
