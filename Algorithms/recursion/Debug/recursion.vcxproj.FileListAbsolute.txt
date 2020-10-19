@@ -1,0 +1,2 @@
+D:\Github\cs50\Algorithms\recursion\Debug\recursion.exe
+D:\Github\cs50\Algorithms\recursion\Debug\recursion.pdb
