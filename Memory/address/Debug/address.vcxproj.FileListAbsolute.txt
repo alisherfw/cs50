@@ -1,0 +1,2 @@
+D:\Github\cs50\Memory\address\Debug\address.exe
+D:\Github\cs50\Memory\address\Debug\address.pdb
