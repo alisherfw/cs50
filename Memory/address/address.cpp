@@ -1,7 +1,12 @@
 #include <iostream>
+#include <string>
 using namespace std;
 int main() {
-	int a = 50;
-	int* p = &a;
-	cout << p << endl;
+	string name = "EMMA";
+	string *s = &name;
+	cout << s << endl;
+	cout << &s[0] << endl;
+	cout << &s[1] << endl;
+	cout << &s[2] << endl;
+	cout << &s[3] << endl;
 }

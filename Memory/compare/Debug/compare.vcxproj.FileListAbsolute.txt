@@ -1,0 +1,2 @@
+D:\Github\cs50\Memory\compare\Debug\compare.exe
+D:\Github\cs50\Memory\compare\Debug\compare.pdb
